@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero{
+    background-image: url('images/bgi2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    overflow: hidden;
+    color: aqua;
+}
+
+.project{
+    width: 100%;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.project-item{
+    float: left;
+    height: 200px;
+    width: 32%;
+    background-image: url('images/project.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
