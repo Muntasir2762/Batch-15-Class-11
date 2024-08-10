@@ -1,0 +1,8 @@
+===========Media Query===========
+
+@media screen and (width:1000px){
+
+    .testClass{
+        kxjdgvkh sdkjfh
+    }
+}
